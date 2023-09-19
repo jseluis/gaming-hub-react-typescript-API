@@ -10,7 +10,7 @@ Technologies used:
 
 Step-by-step Guide to run the App:
 1. Clone the repository.
-2. Run `npm install` to for the required dependencies.
+2. Run `npm install` to install the required dependencies.
 3. Register a RAWG API key at https://rawg.io/apidocs
 4. Add the API key to **src/services/api-client.ts**
 5. Run `npm run dev`, start the server and enjoy it!
