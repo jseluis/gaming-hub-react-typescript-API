@@ -16,4 +16,5 @@ Step-by-step Guide to run the App:
 5. Run `npm run dev`, start the server and enjoy it!
 
 Gaming Hub 👇
+
 <img width="1280" alt="Captura de Tela 2023-09-19 às 22 10 09" src="https://github.com/jseluis/gaming-hub-react-typescript-API/assets/20395716/7e3525f3-1745-45b9-8762-ae0c0b2a7b16">
